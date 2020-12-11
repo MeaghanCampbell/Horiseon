@@ -9,6 +9,9 @@ What I did:
 - Added labels to CSS sheet
 - Added labels to HTML sheet
 - gave all images alt attributes
+- changed the div element from class footer to element footer
+- added link back to top of page when clicking on horiseon
+- 
 
 
 INSTRUCTIONS:
