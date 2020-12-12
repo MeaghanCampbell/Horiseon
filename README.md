@@ -32,6 +32,6 @@ Optimize website for search engines
 
 # This project was built with HTML & CSS
 
-# Link:
+# Link: https://meaghancampbell.github.io/Horiseon/
 
 
