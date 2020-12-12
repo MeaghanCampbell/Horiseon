@@ -1,20 +1,8 @@
 # Code Refactor Starter Code
 
-What I did:
-- Updated the title element from "website" to "Horiseon Marketing"
-- Gave the search-engine-optimization section an ID so it could be linked to the navigation
-- Changed the div with the class "header" to a header html element
-- Changed the div element in the header to a nav element
-- added the css font family attribute to the body tag, and removed any other attributes labeled gill sans
-- Added labels to CSS sheet
-- Added labels to HTML sheet
-- gave all images alt attributes
-- changed the div element from class footer to element footer
-- added link back to top of page when clicking on horiseon
-- 
+This is the first challenge assignment for Vanderbilt Coding Boot Camp. The task was to take existing code and improve it without changing what it does. The website was built for a marketing company we and needed to make it more accessible with better SEO.
 
-
-INSTRUCTIONS:
+# INSTRUCTIONS FROM CLIENT:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -28,27 +16,22 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 Optimize website for search engines
 
-GRADING REQUIREMENTS:
+# What I did:
+- Consolidated CSS so there was no redundant code
+- Added note tags to HTML and CSS
+- Formatted HTML semantic elements so each section had the correct spacing, tabbing and indentifiable elements
+    - Changed the div element in the header to a nav element
+    - Changed div in main content to main
+    - Changed div in footer to footer
+    - Changed div in sidebar to aside
+    - Changed div below main content to section\
+- Gave all images alt attributes
+- Updated the title element from "website" to "Horiseon Marketing"
+- Gave the search-engine-optimization section an ID so it could be linked to the navigation
+- changed the div element from class footer to element footer
 
-Technical Acceptance Criteria: 40%
-- Satisfies all of the preceding acceptance criteria plus the following code improvements:
-- Application's links all function correctly.
-- Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-- Application's CSS file is properly commented.
+# This project was built with HTML & CSS
 
-Deployment: 32%
-- Application deployed at live URL.
-- Application loads with no errors.
-- Application GitHub URL submitted.
-- GitHub repository that contains application code.
+# Link:
 
-Application Quality: 15%
-- Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-Repository Quality: 13%
-- Repository has a unique name.
-- Repository follows best practices for file structure and naming conventions.
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-- Repository contains multiple descriptive commit messages.
-- Repository contains quality README file with description, screenshot, and link to deployed application.
 
